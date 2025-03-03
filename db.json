@@ -1,0 +1,724 @@
+{
+    "animals": [
+        {
+            "ID": 1,
+            "Name": "Elephant",
+            "Picture": {
+                "src": "https://upload.wikimedia.org/wikipedia/commons/3/37/African_Bush_Elephant.jpg",
+                "alt": "Elephant-photo"
+            },
+            "Country of Origin": "Kenya",
+            "Type": "Mammal",
+            "Category": "The Safari Adventure",
+            "Text": "The African elephant is the largest land animal on Earth. Found in savannahs, forests, and grasslands, their population has declined due to poaching and habitat loss. They are herbivores, consuming up to 300 pounds of vegetation daily. Elephants have exceptional memories and use low-frequency sounds to communicate across long distances."
+        },
+        {
+            "ID": 2,
+            "Name": "Lion",
+            "Picture": {
+                "src": "https://upload.wikimedia.org/wikipedia/commons/7/73/Lion_waiting_in_Namibia.jpg",
+                "alt": "Lion-photo"
+            },
+            "Country of Origin": "South Africa",
+            "Type": "Mammal",
+            "Category": "The Safari Adventure",
+            "Text": "Lions are apex predators native to the grasslands of Africa. They live in prides and rely on teamwork to hunt. Their population is decreasing due to habitat destruction and conflicts with humans. Lions primarily hunt herbivores such as zebras and buffalo."
+        },
+        {
+            "ID": 3,
+            "Name": "Cheetah",
+            "Picture": {
+                "src": "https://cdn.britannica.com/98/152298-050-8E45510A/Cheetah.jpg",
+                "alt": "Cheetah-photo"
+            },
+            "Country of Origin": "Namibia",
+            "Type": "Mammal",
+            "Category": "The Safari Adventure",
+            "Text": "The cheetah is the fastest land animal, capable of reaching speeds up to 75 mph. It inhabits open plains and grasslands, preying on small to mid-sized herbivores. Cheetahs are endangered due to habitat loss and human-wildlife conflict."
+        },
+        {
+            "ID": 4,
+            "Name": "Tiger",
+            "Picture": {
+                "src": "https://upload.wikimedia.org/wikipedia/commons/5/56/Tiger.50.jpg",
+                "alt": "Tiger-photo"
+            },
+            "Country of Origin": "India",
+            "Type": "Mammal",
+            "Category": "The Safari Adventure",
+            "Text": "Tigers are powerful predators known for their striking orange coats with black stripes. Although native to Asia, some African reserves have introduced them to diversify ecosystems. They are solitary hunters, primarily preying on large ungulates."
+        },
+        {
+            "ID": 5,
+            "Name": "Giraffe",
+            "Picture": {
+                "src": "https://upload.wikimedia.org/wikipedia/commons/9/9f/Giraffe_standing.jpg",
+                "alt": "Giraffe-photo"
+            },
+            "Country of Origin": "Tanzania",
+            "Type": "Mammal",
+            "Category": "The Safari Adventure",
+            "Text": "Giraffes are the tallest land mammals, reaching up to 18 feet. Their long necks help them access leaves from tall trees, particularly acacias. Habitat loss and poaching threaten their population, though conservation efforts are ongoing."
+        },
+        {
+            "ID": 6,
+            "Name": "Gorilla",
+            "Picture": {
+                "src": "https://www.britannica.com/summary/Gorilla-primate-genus",
+                "alt": "Gorilla-photo"
+            },
+            "Country of Origin": "Rwanda",
+            "Type": "Mammal",
+            "Category": "The Safari Adventure",
+            "Text": "Gorillas are the largest primates, native to the forests of central Sub-Saharan Africa. They live in groups called troops and primarily feed on vegetation. While not currently endangered, they face threats from habitat loss and poaching."
+        },
+        {
+            "ID": 7,
+            "Name": "Hippopotamus",
+            "Picture": {
+                "src": "https://www.thoughtco.com/hippo-facts-4142336",
+                "alt": "Hippopotamus-photo"
+            },
+            "Country of Origin": "Zambia",
+            "Type": "Mammal",
+            "Category": "The Safari Adventure",
+            "Text": "Hippopotamuses are large, mostly herbivorous mammals found in sub-Saharan Africa. They spend much of their time in water bodies like rivers and lakes. Despite their size, they can run quickly on land. They are vulnerable due to habitat loss and hunting."
+        },
+        {
+            "ID": 8,
+            "Name": "Chimpanzee",
+            "Picture": {
+                "src": "https://facts.net/nature/animals/chimpanzee-facts",
+                "alt": "Chimpanzee-photo"
+            },
+            "Country of Origin": "Uganda",
+            "Type": "Mammal",
+            "Category": "The Safari Adventure",
+            "Text": "Chimpanzees are great apes native to the forests and savannahs of tropical Africa. They are our closest living relatives, sharing about 98% of our DNA. They are omnivorous and known for their use of tools. Chimpanzees are endangered due to habitat destruction and hunting."
+        },
+        {
+            "ID": 9,
+            "Name": "Monkey",
+            "Picture": {
+                "src": "https://birdwatchinghq.com/monkeys-of-nigeria/",
+                "alt": "Monkey-photo"
+            },
+            "Country of Origin": "Kenya",
+            "Type": "Mammal",
+            "Category": "The Safari Adventure",
+            "Text": "Monkeys are primates found in various habitats worldwide. They are highly social animals with complex behaviors. Their diets vary widely among species, including fruits, leaves, and insects. Some monkey species are threatened by habitat loss and hunting."
+        },
+        {
+            "ID": 10,
+            "Name": "Zebra",
+            "Picture": {
+                "src": "https://www.thoughtco.com/fun-facts-about-zebras-1140742",
+                "alt": "Zebra-photo"
+            },
+            "Country of Origin": "Namibia",
+            "Type": "Mammal",
+            "Category": "The Safari Adventure",
+            "Text": "Zebras are African equines known for their distinctive black-and-white striped coats. They inhabit various regions, from savannas to mountains. Zebras are social animals that live in herds and primarily feed on grasses. While not endangered, they face threats from habitat loss and hunting."
+        },
+        {
+            "ID": 11,
+            "Name": "Polar Bear",
+            "Picture": {
+                "src": "https://www.earth.com/news/scientists-unravel-the-secrets-of-polar-bear-fur/",
+                "alt": "Polar Bear-photo"
+            },
+            "Country of Origin": "Canada",
+            "Type": "Mammal",
+            "Category": "The Polar Frontier",
+            "Text": "Polar bears are native to the Arctic region, primarily hunting seals on sea ice. They are the largest land carnivores. Climate change poses a significant threat to their habitat, leading to a decline in their population."
+        },
+        {
+            "ID": 12,
+            "Name": "Emperor Penguin",
+            "Picture": {
+                "src": "https://critterfacts.com/emperorpenguin/",
+                "alt": "Emperor Penguin-photo"
+            },
+            "Country of Origin": "Antarctica",
+            "Type": "Bird",
+            "Category": "The Polar Frontier",
+            "Text": "Emperor penguins are the tallest and heaviest of all living penguin species. They are known for their unique breeding cycle during the Antarctic winter. Their diet consists mainly of fish, krill, and squid. Climate change and shifting ice patterns threaten their colonies."
+        },
+        {
+            "ID": 13,
+            "Name": "Arctic Fox",
+            "Picture": {
+                "src": "https://ecologyprime.com/2023/03/31/arctic-fox/",
+                "alt": "Arctic Fox-photo"
+            },
+            "Country of Origin": "Iceland",
+            "Type": "Mammal",
+            "Category": "The Polar Frontier",
+            "Text": "Arctic foxes are small mammals adapted to cold Arctic environments. They have thick fur that changes color with the seasons, providing camouflage. Their diet includes lemmings, birds, and carrion. While not endangered, climate change affects their food sources and habitat."
+        },
+        {
+            "ID": 14,
+            "Name": "Walrus",
+            "Picture": {
+                "src": "https://www.earth.com/news/scientists-unravel-the-secrets-of-polar-bear-fur/",
+                "alt": "Walrus-photo"
+            },
+            "Country of Origin": "Russia",
+            "Type": "Mammal",
+            "Category": "The Polar Frontier",
+            "Text": "Walruses are large marine mammals known for their long tusks and whiskers. They inhabit Arctic seas and are often found on sea ice. Their diet mainly consists of benthic bivalve mollusks. Climate change and diminishing sea ice pose significant threats to their populations."
+        },
+        {
+            "ID": 15,
+            "Name": "Snowy Owl",
+            "Picture": {
+                "src": "https://images.saymedia-content.com/.image/c_limit%2Ccs_srgb%2Cq_auto:eco%2Cw_700/MTc2MjkwMjU1ODk1NDA1NzU4/birds-of-prey-the-snowy-owl.webp",
+                "alt": "Snowy Owl-photo"
+            },
+            "Country of Origin": "Canada",
+            "Type": "Bird",
+            "Category": "The Polar Frontier",
+            "Text": "Snowy owls are large, white owls native to the Arctic regions of North America and Eurasia. They are known for their striking plumage and are one of the few owl species active during the day. Their diet mainly consists of lemmings and other small mammals."
+        }
+        {
+            "ID": 16,
+            "Name": "Harp Seal",
+            "Picture": {
+                "src": "https://upload.wikimedia.org/wikipedia/commons/b/bd/Harp_seal.jpg",
+                "alt": "Harp Seal-photo"
+            },
+            "Country of Origin": "Norway",
+            "Type": "Mammal",
+            "Category": "The Polar Frontier",
+            "Text": "Harp seals are known for their white fur as pups and their ability to live on floating ice. They feed on fish and crustaceans and are excellent swimmers. While populations are stable, they face threats from climate change and hunting."
+        },
+        {
+            "ID": 17,
+            "Name": "Arctic Hare",
+            "Picture": {
+                "src": "https://upload.wikimedia.org/wikipedia/commons/4/42/Arctic_Hare.jpg",
+                "alt": "Arctic Hare-photo"
+            },
+            "Country of Origin": "Greenland",
+            "Type": "Mammal",
+            "Category": "The Polar Frontier",
+            "Text": "Arctic hares have thick fur and powerful hind legs, allowing them to survive in freezing temperatures. They primarily feed on shrubs and mosses and have a keen ability to dig into the snow for food. Their numbers remain stable in the Arctic."
+        },
+        {
+            "ID": 18,
+            "Name": "Narwhal",
+            "Picture": {
+                "src": "https://upload.wikimedia.org/wikipedia/commons/5/5d/Narwhals_breach.jpg",
+                "alt": "Narwhal-photo"
+            },
+            "Country of Origin": "Canada",
+            "Type": "Mammal",
+            "Category": "The Polar Frontier",
+            "Text": "Narwhals are known as the 'unicorns of the sea' due to their long, spiraled tusks. They inhabit Arctic waters, feeding on fish and squid. Climate change and human activities pose risks to their populations."
+        },
+        {
+            "ID": 19,
+            "Name": "Beluga Whale",
+            "Picture": {
+                "src": "https://upload.wikimedia.org/wikipedia/commons/5/5c/Delphinapterus_leucas_02-cropped.jpg",
+                "alt": "Beluga Whale-photo"
+            },
+            "Country of Origin": "Russia",
+            "Type": "Mammal",
+            "Category": "The Polar Frontier",
+            "Text": "Beluga whales are highly social marine mammals known for their white skin and echolocation abilities. They inhabit Arctic and sub-Arctic waters, feeding on fish and crustaceans. While not endangered, they face risks from pollution and climate change."
+        },
+        {
+            "ID": 20,
+            "Name": "Puffin",
+            "Picture": {
+                "src": "https://upload.wikimedia.org/wikipedia/commons/2/2f/Atlantic_puffin_fratercula_arctica.jpg",
+                "alt": "Puffin-photo"
+            },
+            "Country of Origin": "Iceland",
+            "Type": "Bird",
+            "Category": "The Polar Frontier",
+            "Text": "Puffins are seabirds known for their colorful beaks and excellent diving abilities. They nest on cliffs and hunt for fish underwater. Their population is declining due to climate change affecting their food sources."
+        },
+        {
+            "ID": 21,
+            "Name": "Toco Toucan",
+            "Picture": {
+                "src": "https://upload.wikimedia.org/wikipedia/commons/0/0e/Toco_toucan%2C_Ramphastos_toco.jpg",
+                "alt": "Toco Toucan-photo"
+            },
+            "Country of Origin": "Brazil",
+            "Type": "Bird",
+            "Category": "The Tropical Rainforest",
+            "Text": "The toco toucan is one of the most recognizable rainforest birds, with a large, colorful bill. They live in South American rainforests, feeding on fruits, insects, and small reptiles. Despite habitat destruction, their population remains stable."
+        },
+        {
+            "ID": 22,
+            "Name": "Scarlet Macaw",
+            "Picture": {
+                "src": "https://upload.wikimedia.org/wikipedia/commons/2/26/Ara_macao_-Costa_Rica-8.jpg",
+                "alt": "Scarlet Macaw-photo"
+            },
+            "Country of Origin": "Peru",
+            "Type": "Bird",
+            "Category": "The Tropical Rainforest",
+            "Text": "The scarlet macaw is a vibrant and intelligent parrot native to Central and South America. They live in tropical rainforests, forming strong bonds with mates. Habitat loss and the pet trade threaten their numbers."
+        },
+        {
+            "ID": 23,
+            "Name": "Flamingo",
+            "Picture": {
+                "src": "https://upload.wikimedia.org/wikipedia/commons/4/47/Phoenicopterus_roseus_Parc_ornithologique_de_Pont_de_Gau_01_cropped.jpg",
+                "alt": "Flamingo-photo"
+            },
+            "Country of Origin": "Colombia",
+            "Type": "Bird",
+            "Category": "The Tropical Rainforest",
+            "Text": "Flamingos are wading birds famous for their pink feathers, which result from their diet of shrimp and algae. They live in lagoons and wetlands. Their population is declining in some regions due to habitat destruction."
+        },
+        {
+            "ID": 24,
+            "Name": "Sloth",
+            "Picture": {
+                "src": "https://upload.wikimedia.org/wikipedia/commons/6/6e/Bradypus.jpg",
+                "alt": "Sloth-photo"
+            },
+            "Country of Origin": "Costa Rica",
+            "Type": "Mammal",
+            "Category": "The Tropical Rainforest",
+            "Text": "Sloths are slow-moving mammals that spend most of their lives hanging from trees. Their diet mainly consists of leaves, and they have an incredibly slow metabolism. Deforestation poses a significant threat to their population."
+        },
+        {
+            "ID": 25,
+            "Name": "Jaguar",
+            "Picture": {
+                "src": "https://upload.wikimedia.org/wikipedia/commons/b/b1/Panthera_onca_at_the_Toronto_Zoo_2.jpg",
+                "alt": "Jaguar-photo"
+            },
+            "Country of Origin": "Brazil",
+            "Type": "Mammal",
+            "Category": "The Tropical Rainforest",
+            "Text": "Jaguars are powerful predators, capable of swimming and climbing with ease. They are the top carnivores in the Amazon rainforest, hunting deer, fish, and caimans. Habitat loss and poaching are significant threats to their survival."
+        },
+        {
+            "ID": 26,
+            "Name": "Capybara",
+            "Picture": {
+                "src": "https://upload.wikimedia.org/wikipedia/commons/3/37/Capybara_%28Hydrochoerus_hydrochaeris%29.JPG",
+                "alt": "Capybara-photo"
+            },
+            "Country of Origin": "Venezuela",
+            "Type": "Mammal",
+            "Category": "The Tropical Rainforest",
+            "Text": "Capybaras are the largest rodents in the world and are highly social animals. They live near water sources in the rainforest, feeding on grasses and aquatic plants. Their population is stable, though they are hunted in some areas."
+        },
+        {
+            "ID": 27,
+            "Name": "Poison Dart Frog",
+            "Picture": {
+                "src": "https://upload.wikimedia.org/wikipedia/commons/5/5c/Dendrobates_azureus.jpg",
+                "alt": "Poison Dart Frog-photo"
+            },
+            "Country of Origin": "Ecuador",
+            "Type": "Amphibian",
+            "Category": "The Tropical Rainforest",
+            "Text": "Poison dart frogs are small but highly toxic amphibians. Their bright colors serve as a warning to predators. They inhabit the rainforests of Central and South America and face habitat loss as their biggest threat."
+        },
+        {
+            "ID": 28,
+            "Name": "Howler Monkey",
+            "Picture": {
+                "src": "https://upload.wikimedia.org/wikipedia/commons/7/74/Howler_monkey%2C_Costa_Rica.jpg",
+                "alt": "Howler Monkey-photo"
+            },
+            "Country of Origin": "Guatemala",
+            "Type": "Mammal",
+            "Category": "The Tropical Rainforest",
+            "Text": "Howler monkeys are known for their deep, resonant calls, which can be heard up to three miles away. They live in the rainforest canopy, feeding on leaves and fruit. Deforestation is a major threat to their habitat."
+        },
+        {
+            "ID": 29,
+            "Name": "Tapir",
+            "Picture": {
+                "src": "https://upload.wikimedia.org/wikipedia/commons/d/d8/Tapir_5.jpg",
+                "alt": "Tapir-photo"
+            },
+            "Country of Origin": "Bolivia",
+            "Type": "Mammal",
+            "Category": "The Tropical Rainforest",
+            "Text": "Tapirs are large herbivorous mammals with a flexible snout used for grabbing vegetation. They are excellent swimmers and play an essential role in rainforest ecosystems. Their numbers are declining due to habitat destruction and hunting."
+        },
+        {
+            "ID": 30,
+            "Name": "Anaconda",
+            "Picture": {
+                "src": "https://upload.wikimedia.org/wikipedia/commons/3/34/Eunectes_murinus.JPG",
+                "alt": "Anaconda-photo"
+            },
+            "Country of Origin": "Peru",
+            "Type": "Reptile",
+            "Category": "The Tropical Rainforest",
+            "Text": "Anacondas are among the largest snakes in the world. They inhabit the Amazon basin and are excellent swimmers. These constrictors prey on large mammals, birds, and reptiles. While not endangered, habitat destruction is a growing concern."
+        },
+       {
+            "ID": 31,
+            "Name": "Blue Morpho Butterfly",
+            "Picture": {
+                "src": "https://upload.wikimedia.org/wikipedia/commons/1/1f/Morpho_menelaus_01.jpg",
+                "alt": "Blue Morpho Butterfly-photo"
+            },
+            "Country of Origin": "Brazil",
+            "Type": "Insect",
+            "Category": "The Butterfly Garden",
+            "Text": "The Blue Morpho Butterfly is famous for its iridescent blue wings. It is native to South American rainforests and prefers the understory layer. It feeds on fermenting fruit and is threatened by habitat destruction."
+        },
+        {
+            "ID": 32,
+            "Name": "Peacock Butterfly",
+            "Picture": {
+                "src": "https://upload.wikimedia.org/wikipedia/commons/5/53/Aglais_io_MHNT_CUT_2013_3_27.jpg",
+                "alt": "Peacock Butterfly-photo"
+            },
+            "Country of Origin": "India",
+            "Type": "Insect",
+            "Category": "The Butterfly Garden",
+            "Text": "The Peacock Butterfly has striking eye-like patterns on its wings that help deter predators. It is commonly found in woodlands and gardens. It feeds on flower nectar and hibernates during colder months."
+        },
+        {
+            "ID": 33,
+            "Name": "Glasswing Butterfly",
+            "Picture": {
+                "src": "https://upload.wikimedia.org/wikipedia/commons/4/47/Greta_oto_Glasfl%C3%BCgler.JPG",
+                "alt": "Glasswing Butterfly-photo"
+            },
+            "Country of Origin": "Costa Rica",
+            "Type": "Insect",
+            "Category": "The Butterfly Garden",
+            "Text": "Glasswing Butterflies have transparent wings that make them almost invisible in the wild. They are found in Central and South America, feeding on nectar. Their numbers remain stable, but deforestation is a concern."
+        },
+        {
+            "ID": 34,
+            "Name": "Monarch Butterfly",
+            "Picture": {
+                "src": "https://upload.wikimedia.org/wikipedia/commons/4/4e/Danaus_plexippus_MHNT.jpg",
+                "alt": "Monarch Butterfly-photo"
+            },
+            "Country of Origin": "Mexico",
+            "Type": "Insect",
+            "Category": "The Butterfly Garden",
+            "Text": "The Monarch Butterfly is known for its long migratory journey from North America to Mexico. It feeds on milkweed, which makes it toxic to predators. Habitat loss and climate change threaten its population."
+        },
+        {
+            "ID": 35,
+            "Name": "Emerald Swallowtail",
+            "Picture": {
+                "src": "https://upload.wikimedia.org/wikipedia/commons/8/8e/Papilio_palamedes_ventral.JPG",
+                "alt": "Emerald Swallowtail-photo"
+            },
+            "Country of Origin": "Vietnam",
+            "Type": "Insect",
+            "Category": "The Butterfly Garden",
+            "Text": "The Emerald Swallowtail is a stunning butterfly with iridescent green wings. It inhabits Southeast Asian forests and is a fast flier. It primarily feeds on nectar and is not currently endangered."
+        },
+        {
+            "ID": 36,
+            "Name": "Paper Kite Butterfly",
+            "Picture": {
+                "src": "https://upload.wikimedia.org/wikipedia/commons/1/16/Idea_leuconoe_-_upper_side.JPG",
+                "alt": "Paper Kite Butterfly-photo"
+            },
+            "Country of Origin": "Philippines",
+            "Type": "Insect",
+            "Category": "The Butterfly Garden",
+            "Text": "The Paper Kite Butterfly has black-and-white patterned wings and glides gracefully in tropical forests. It feeds on nectar and has a slow, floating flight pattern. Its population is stable in butterfly conservatories."
+        },
+        {
+            "ID": 37,
+            "Name": "Zebra Longwing Butterfly",
+            "Picture": {
+                "src": "https://upload.wikimedia.org/wikipedia/commons/1/1c/Heliconius_charithonia_zebra.jpg",
+                "alt": "Zebra Longwing Butterfly-photo"
+            },
+            "Country of Origin": "United States",
+            "Type": "Insect",
+            "Category": "The Butterfly Garden",
+            "Text": "The Zebra Longwing Butterfly is recognizable by its black-and-yellow striped wings. It is found in the southern U.S. and Central America, feeding on nectar and pollen. Unlike most butterflies, it can live up to several months."
+        },
+        {
+            "ID": 38,
+            "Name": "Rajah Brooke’s Birdwing",
+            "Picture": {
+                "src": "https://upload.wikimedia.org/wikipedia/commons/6/6f/Rajah_Brookes_Birdwing_butterfly.jpg",
+                "alt": "Rajah Brooke’s Birdwing-photo"
+            },
+            "Country of Origin": "Malaysia",
+            "Type": "Insect",
+            "Category": "The Butterfly Garden",
+            "Text": "Rajah Brooke’s Birdwing is one of the largest and most striking butterflies in Southeast Asia. Its vivid green and black coloration makes it highly sought after by collectors. Conservation efforts help protect its habitat."
+        },
+        {
+            "ID": 39,
+            "Name": "Common Blue Butterfly",
+            "Picture": {
+                "src": "https://upload.wikimedia.org/wikipedia/commons/e/e2/Polyommatus_icarus_-_front_%28aka%29.jpg",
+                "alt": "Common Blue Butterfly-photo"
+            },
+            "Country of Origin": "United Kingdom",
+            "Type": "Insect",
+            "Category": "The Butterfly Garden",
+            "Text": "The Common Blue Butterfly is a small but vibrant butterfly found in grasslands across Europe. Males have bright blue wings, while females are brown with hints of blue. Its population is stable, though some areas see habitat decline."
+        },
+        {
+            "ID": 40,
+            "Name": "Malachite Butterfly",
+            "Picture": {
+                "src": "https://upload.wikimedia.org/wikipedia/commons/9/9e/Malachite_butterfly.jpg",
+                "alt": "Malachite Butterfly-photo"
+            },
+            "Country of Origin": "Ecuador",
+            "Type": "Insect",
+            "Category": "The Butterfly Garden",
+            "Text": "The Malachite Butterfly has striking green and black wings. It is native to Central and South America and feeds on rotting fruit. Its population is stable, but deforestation threatens its habitat."
+        },
+        {
+            "ID": 41,
+            "Name": "Great White Shark",
+            "Picture": {
+                "src": "https://upload.wikimedia.org/wikipedia/commons/5/56/White_shark.jpg",
+                "alt": "Great White Shark-photo"
+            },
+            "Country of Origin": "South Africa",
+            "Type": "Fish",
+            "Category": "The Ocean Odyssey",
+            "Text": "The great white shark is one of the ocean's top predators, known for its powerful build and sharp teeth. It preys on fish, seals, and even dolphins. Its population is declining due to overfishing and habitat destruction."
+        },
+        {
+            "ID": 42,
+            "Name": "Bottlenose Dolphin",
+            "Picture": {
+                "src": "https://upload.wikimedia.org/wikipedia/commons/4/4d/Tursiops_truncatus_01.jpg",
+                "alt": "Bottlenose Dolphin-photo"
+            },
+            "Country of Origin": "United States",
+            "Type": "Mammal",
+            "Category": "The Ocean Odyssey",
+            "Text": "Bottlenose dolphins are highly intelligent marine mammals known for their playful behavior and complex communication. They live in warm coastal waters and feed on fish and squid. Their population is stable, but pollution and fishing nets pose threats."
+        },
+        {
+            "ID": 43,
+            "Name": "Common Octopus",
+            "Picture": {
+                "src": "https://upload.wikimedia.org/wikipedia/commons/8/81/Common_octopus_%28Octopus_vulgaris%29.jpg",
+                "alt": "Common Octopus-photo"
+            },
+            "Country of Origin": "Greece",
+            "Type": "Mollusk",
+            "Category": "The Ocean Odyssey",
+            "Text": "The common octopus is a highly intelligent cephalopod known for its problem-solving abilities and camouflage skills. It inhabits coral reefs and rocky ocean floors. Overfishing threatens some octopus populations."
+        },
+        {
+            "ID": 44,
+            "Name": "Manta Ray",
+            "Picture": {
+                "src": "https://upload.wikimedia.org/wikipedia/commons/2/2c/Manta_ray_Bahamas.jpg",
+                "alt": "Manta Ray-photo"
+            },
+            "Country of Origin": "Indonesia",
+            "Type": "Fish",
+            "Category": "The Ocean Odyssey",
+            "Text": "Manta rays are large, graceful filter feeders that glide through tropical ocean waters. They feed on plankton and are known for their intelligence. Their population is declining due to overfishing and pollution."
+        },
+        {
+            "ID": 45,
+            "Name": "Clownfish",
+            "Picture": {
+                "src": "https://upload.wikimedia.org/wikipedia/commons/2/29/Amphiprion_ocellaris_%28Clown_anemonefish%29.jpg",
+                "alt": "Clownfish-photo"
+            },
+            "Country of Origin": "Australia",
+            "Type": "Fish",
+            "Category": "The Ocean Odyssey",
+            "Text": "Clownfish live among sea anemones and have a unique symbiotic relationship with them. They are native to coral reefs and are famous due to their bright orange coloration. Climate change threatens their coral reef habitat."
+        },
+        {
+            "ID": 46,
+            "Name": "Sea Turtle",
+            "Picture": {
+                "src": "https://upload.wikimedia.org/wikipedia/commons/e/e9/Tortue_luth_-_R%C3%A9serve_Cousteau.jpg",
+                "alt": "Sea Turtle-photo"
+            },
+            "Country of Origin": "Costa Rica",
+            "Type": "Reptile",
+            "Category": "The Ocean Odyssey",
+            "Text": "Sea turtles are ancient marine reptiles that migrate long distances between feeding and nesting sites. They feed on seagrasses, jellyfish, and crustaceans. Plastic pollution and habitat destruction threaten their survival."
+        },
+        {
+            "ID": 47,
+            "Name": "Humpback Whale",
+            "Picture": {
+                "src": "https://upload.wikimedia.org/wikipedia/commons/7/7f/Humpback_Whale_underwater_shot.jpg",
+                "alt": "Humpback Whale-photo"
+            },
+            "Country of Origin": "Alaska",
+            "Type": "Mammal",
+            "Category": "The Ocean Odyssey",
+            "Text": "Humpback whales are known for their majestic breaches and complex songs. They migrate thousands of miles between feeding and breeding grounds. Conservation efforts have helped recover their populations after whaling nearly wiped them out."
+        },
+        {
+            "ID": 48,
+            "Name": "Giant Pacific Octopus",
+            "Picture": {
+                "src": "https://upload.wikimedia.org/wikipedia/commons/3/3e/Giant_Pacific_Octopus.jpg",
+                "alt": "Giant Pacific Octopus-photo"
+            },
+            "Country of Origin": "Japan",
+            "Type": "Mollusk",
+            "Category": "The Ocean Odyssey",
+            "Text": "The giant Pacific octopus is the largest of its kind, capable of growing over 16 feet. It is a master of disguise and has exceptional problem-solving abilities. Overfishing and pollution threaten its habitat."
+        },
+        {
+            "ID": 49,
+            "Name": "Moray Eel",
+            "Picture": {
+                "src": "https://upload.wikimedia.org/wikipedia/commons/3/3d/Gymnothorax_funebris2.jpg",
+                "alt": "Moray Eel-photo"
+            },
+            "Country of Origin": "Hawaii",
+            "Type": "Fish",
+            "Category": "The Ocean Odyssey",
+            "Text": "Moray eels are elongated, secretive predators that live in coral reefs and rocky crevices. They have sharp teeth and strong jaws for catching fish. Some species are threatened by habitat destruction."
+        },
+        {
+            "ID": 50,
+            "Name": "Lionfish",
+            "Picture": {
+                "src": "https://upload.wikimedia.org/wikipedia/commons/5/58/Pterois_volitans_Manado-e_edit.jpg",
+                "alt": "Lionfish-photo"
+            },
+            "Country of Origin": "Philippines",
+            "Type": "Fish",
+            "Category": "The Ocean Odyssey",
+            "Text": "Lionfish are beautiful but venomous fish that have become invasive in some ocean regions. They feed on small fish and invertebrates, and their population explosion threatens marine ecosystems. Efforts are being made to control their spread."
+        },
+        {
+            "ID": 51,
+            "Name": "Barn Owl",
+            "Picture": {
+                "src": "https://upload.wikimedia.org/wikipedia/commons/4/4e/Tyto_alba_060818c.jpg",
+                "alt": "Barn Owl-photo"
+            },
+            "Country of Origin": "United Kingdom",
+            "Type": "Bird",
+            "Category": "The Bird Sanctuary",
+            "Text": "Barn owls are known for their heart-shaped faces and exceptional night vision. They hunt rodents using silent flight. Habitat loss and pesticides threaten some populations, but conservation efforts are helping."
+        },
+        {
+            "ID": 52,
+            "Name": "Bald Eagle",
+            "Picture": {
+                "src": "https://upload.wikimedia.org/wikipedia/commons/1/1a/Bald_Eagle_Portrait.jpg",
+                "alt": "Bald Eagle-photo"
+            },
+            "Country of Origin": "United States",
+            "Type": "Bird",
+            "Category": "The Bird Sanctuary",
+            "Text": "The bald eagle is a powerful bird of prey and the national symbol of the United States. It primarily feeds on fish and scavenges for carrion. Conservation efforts have successfully brought it back from near extinction."
+        },
+        {
+            "ID": 53,
+            "Name": "Peregrine Falcon",
+            "Picture": {
+                "src": "https://upload.wikimedia.org/wikipedia/commons/5/5c/Peregrine_Falcon_in_flight_-_stoop.jpg",
+                "alt": "Peregrine Falcon-photo"
+            },
+            "Country of Origin": "Canada",
+            "Type": "Bird",
+            "Category": "The Bird Sanctuary",
+            "Text": "The peregrine falcon is the fastest bird in the world, reaching speeds over 240 mph in a dive. It preys on birds and small mammals. Pesticide bans have helped restore its population."
+        },
+        {
+            "ID": 54,
+            "Name": "Kingfisher",
+            "Picture": {
+                "src": "https://upload.wikimedia.org/wikipedia/commons/7/7a/Common_Kingfisher_Alcedo_atthis.jpg",
+                "alt": "Kingfisher-photo"
+            },
+            "Country of Origin": "India",
+            "Type": "Bird",
+            "Category": "The Bird Sanctuary",
+            "Text": "Kingfishers are small, colorful birds that specialize in diving into water to catch fish. They have excellent eyesight and strong beaks. Their habitat is under threat due to pollution and deforestation."
+        },
+        {
+            "ID": 55,
+            "Name": "African Grey Parrot",
+            "Picture": {
+                "src": "https://upload.wikimedia.org/wikipedia/commons/7/71/Psittacus_erithacus_-perching_on_tray-8d.jpg",
+                "alt": "African Grey Parrot-photo"
+            },
+            "Country of Origin": "Gabon",
+            "Type": "Bird",
+            "Category": "The Bird Sanctuary",
+            "Text": "The African grey parrot is one of the most intelligent bird species, capable of mimicking human speech. They live in rainforests but are endangered due to illegal pet trade and habitat loss."
+        },
+        {
+            "ID": 56,
+            "Name": "Cockatoo",
+            "Picture": {
+                "src": "https://upload.wikimedia.org/wikipedia/commons/d/d1/Cacatua_galerita_-perched_on_tray-8a.jpg",
+                "alt": "Cockatoo-photo"
+            },
+            "Country of Origin": "Australia",
+            "Type": "Bird",
+            "Category": "The Bird Sanctuary",
+            "Text": "Cockatoos are highly social and intelligent birds known for their playful behavior and crests. They thrive in forests and woodlands but face habitat destruction threats."
+        },
+        {
+            "ID": 57,
+            "Name": "Peafowl",
+            "Picture": {
+                "src": "https://upload.wikimedia.org/wikipedia/commons/b/bd/Peacock_Plumage.jpg",
+                "alt": "Peafowl-photo"
+            },
+            "Country of Origin": "India",
+            "Type": "Bird",
+            "Category": "The Bird Sanctuary",
+            "Text": "Peafowls are known for their dazzling plumage, used in courtship displays. They are omnivores and can adapt to various environments. They are culturally significant in many regions."
+        },
+        {
+            "ID": 58,
+            "Name": "Red-Tailed Hawk",
+            "Picture": {
+                "src": "https://upload.wikimedia.org/wikipedia/commons/5/56/Buteo_jamaicensis_-_Red-tailed_Hawk_%28Rufous_morph%29.jpg",
+                "alt": "Red-Tailed Hawk-photo"
+            },
+            "Country of Origin": "United States",
+            "Type": "Bird",
+            "Category": "The Bird Sanctuary",
+            "Text": "The red-tailed hawk is a widespread bird of prey found in North America. It hunts rodents and small mammals. It is highly adaptable and thrives in various habitats."
+        },
+        {
+            "ID": 59,
+            "Name": "Great Horned Owl",
+            "Picture": {
+                "src": "https://upload.wikimedia.org/wikipedia/commons/7/7f/Great_Horned_Owl.jpg",
+                "alt": "Great Horned Owl-photo"
+            },
+            "Country of Origin": "Mexico",
+            "Type": "Bird",
+            "Category": "The Bird Sanctuary",
+            "Text": "The great horned owl is a powerful nocturnal predator with distinctive ear tufts. It has a varied diet, including mammals, birds, and reptiles. Its population is stable across its range."
+        },
+        {
+            "ID": 60,
+            "Name": "Macaw",
+            "Picture": {
+                "src": "https://upload.wikimedia.org/wikipedia/commons/5/5c/Ara_ararauna_-captive-8a.jpg",
+                "alt": "Macaw-photo"
+            },
+            "Country of Origin": "Brazil",
+            "Type": "Bird",
+            "Category": "The Bird Sanctuary",
+            "Text": "Macaws are large, colorful parrots that live in the rainforest. They are highly social and intelligent, often forming strong bonds with mates. Illegal pet trade and deforestation threaten their survival."
+        }
+    ]
+}
