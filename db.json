@@ -124,7 +124,7 @@
             "ID": 11,
             "Name": "Polar Bear",
             "Picture": {
-                "src": "https://www.earth.com/news/scientists-unravel-the-secrets-of-polar-bear-fur/",
+                "src": "https://www.earth.com/assets/_next/image/?url=https%3A%2F%2Fcff2.earth.com%2Fuploads%2F2023%2F04%2F10232809%2FPolar-bear-1400x850.jpg&w=1200&q=75",
                 "alt": "Polar Bear-photo"
             },
             "Country of Origin": "Canada",
@@ -136,7 +136,7 @@
             "ID": 12,
             "Name": "Emperor Penguin",
             "Picture": {
-                "src": "https://critterfacts.com/emperorpenguin/",
+                "src": "https://i0.wp.com/critterfacts.com/wp-content/uploads/2019/08/s_348950189.jpg?w=1080&ssl=1",
                 "alt": "Emperor Penguin-photo"
             },
             "Country of Origin": "Antarctica",
@@ -148,7 +148,7 @@
             "ID": 13,
             "Name": "Arctic Fox",
             "Picture": {
-                "src": "https://ecologyprime.com/2023/03/31/arctic-fox/",
+                "src": "https://ecologyprime.com/wp-content/uploads/2023/03/Arctic-Fox-1-cropped.jpg",
                 "alt": "Arctic Fox-photo"
             },
             "Country of Origin": "Iceland",
@@ -160,7 +160,7 @@
             "ID": 14,
             "Name": "Walrus",
             "Picture": {
-                "src": "https://www.earth.com/news/scientists-unravel-the-secrets-of-polar-bear-fur/",
+                "src": "https://seaworld.com/san-diego/-/media/migrated-media/seaworld-san-diego/images/animals/walrus/2021_swc_walrus-006_product_thumb.jpg",
                 "alt": "Walrus-photo"
             },
             "Country of Origin": "Russia",
@@ -184,7 +184,7 @@
             "ID": 16,
             "Name": "Harp Seal",
             "Picture": {
-                "src": "https://upload.wikimedia.org/wikipedia/commons/b/bd/Harp_seal.jpg",
+                "src": "https://static.vecteezy.com/system/resources/thumbnails/051/599/338/small_2x/harp-seal-pup-on-ice-floe-with-blue-water-background-concept-of-arctic-wildlife-climate-change-and-conservation-photo.jpg",
                 "alt": "Harp Seal-photo"
             },
             "Country of Origin": "Norway",
@@ -196,7 +196,7 @@
             "ID": 17,
             "Name": "Arctic Hare",
             "Picture": {
-                "src": "https://upload.wikimedia.org/wikipedia/commons/4/42/Arctic_Hare.jpg",
+                "src": "https://upload.wikimedia.org/wikipedia/commons/e/e3/Arctic_Hare_1.jpg",
                 "alt": "Arctic Hare-photo"
             },
             "Country of Origin": "Greenland",
@@ -208,7 +208,7 @@
             "ID": 18,
             "Name": "Narwhal",
             "Picture": {
-                "src": "https://upload.wikimedia.org/wikipedia/commons/5/5d/Narwhals_breach.jpg",
+                "src": "https://media.istockphoto.com/id/1191668545/photo/narwhal-male-monodon-monoceros-swimming-in-the-ocean.jpg?s=612x612&w=0&k=20&c=dnwt0_lnM7mGXRrcJBpLiPfCS-0530KvzQy1TT6m_Ok=",
                 "alt": "Narwhal-photo"
             },
             "Country of Origin": "Canada",
@@ -220,7 +220,7 @@
             "ID": 19,
             "Name": "Beluga Whale",
             "Picture": {
-                "src": "https://upload.wikimedia.org/wikipedia/commons/5/5c/Delphinapterus_leucas_02-cropped.jpg",
+                "src": "https://www.georgiaaquarium.org/wp-content/uploads/2018/09/beluga-whale-webcam-9.jpg",
                 "alt": "Beluga Whale-photo"
             },
             "Country of Origin": "Russia",
@@ -232,7 +232,7 @@
             "ID": 20,
             "Name": "Puffin",
             "Picture": {
-                "src": "https://upload.wikimedia.org/wikipedia/commons/2/2f/Atlantic_puffin_fratercula_arctica.jpg",
+                "src": "https://www.allaboutbirds.org/guide/assets/photo/70034501-480px.jpg",
                 "alt": "Puffin-photo"
             },
             "Country of Origin": "Iceland",
@@ -244,7 +244,7 @@
             "ID": 21,
             "Name": "Toco Toucan",
             "Picture": {
-                "src": "https://upload.wikimedia.org/wikipedia/commons/0/0e/Toco_toucan%2C_Ramphastos_toco.jpg",
+                "src": "https://animals.sandiegozoo.org/sites/default/files/2016-11/animals_hero_toucan.jpg",
                 "alt": "Toco Toucan-photo"
             },
             "Country of Origin": "Brazil",
@@ -256,7 +256,7 @@
             "ID": 22,
             "Name": "Scarlet Macaw",
             "Picture": {
-                "src": "https://upload.wikimedia.org/wikipedia/commons/2/26/Ara_macao_-Costa_Rica-8.jpg",
+                "src": "https://www.thesprucepets.com/thmb/eS76P1vw-0DrYKhCXd-2553h3sw=/4724x0/filters:no_upscale():strip_icc()/GettyImages-634869043-58a6e83f5f9b58a3c918ca12.jpg",
                 "alt": "Scarlet Macaw-photo"
             },
             "Country of Origin": "Peru",
@@ -268,7 +268,7 @@
             "ID": 23,
             "Name": "Flamingo",
             "Picture": {
-                "src": "https://upload.wikimedia.org/wikipedia/commons/4/47/Phoenicopterus_roseus_Parc_ornithologique_de_Pont_de_Gau_01_cropped.jpg",
+                "src": "https://images.unsplash.com/photo-1539418561314-565804e349c0?fm=jpg&q=60&w=3000&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8M3x8ZmxhbWluZ298ZW58MHx8MHx8fDA%3D",
                 "alt": "Flamingo-photo"
             },
             "Country of Origin": "Colombia",
@@ -280,7 +280,7 @@
             "ID": 24,
             "Name": "Sloth",
             "Picture": {
-                "src": "https://upload.wikimedia.org/wikipedia/commons/6/6e/Bradypus.jpg",
+                "src": "https://t3.ftcdn.net/jpg/03/53/25/10/360_F_353251094_V7ANK1fZh03igu6EcB7zEskxqOrshlS3.jpg",
                 "alt": "Sloth-photo"
             },
             "Country of Origin": "Costa Rica",
@@ -292,7 +292,7 @@
             "ID": 25,
             "Name": "Jaguar",
             "Picture": {
-                "src": "https://upload.wikimedia.org/wikipedia/commons/b/b1/Panthera_onca_at_the_Toronto_Zoo_2.jpg",
+                "src": "https://transforms.stlzoo.org/production/animals/Jaguar-01-01.jpg?w=1200&h=1200&auto=compress%2Cformat&fit=crop&dm=1658947196&s=6b0f467a5039e23accc8906c0bf1b7e8",
                 "alt": "Jaguar-photo"
             },
             "Country of Origin": "Brazil",
@@ -304,7 +304,7 @@
             "ID": 26,
             "Name": "Capybara",
             "Picture": {
-                "src": "https://upload.wikimedia.org/wikipedia/commons/3/37/Capybara_%28Hydrochoerus_hydrochaeris%29.JPG",
+                "src": "https://cdn.britannica.com/79/191679-050-C7114D2B/Adult-capybara.jpg",
                 "alt": "Capybara-photo"
             },
             "Country of Origin": "Venezuela",
@@ -316,7 +316,7 @@
             "ID": 27,
             "Name": "Poison Dart Frog",
             "Picture": {
-                "src": "https://upload.wikimedia.org/wikipedia/commons/5/5c/Dendrobates_azureus.jpg",
+                "src": "https://media.istockphoto.com/id/500521083/photo/amazon-dart-frog-ranitomeya-ventrimaculata.jpg?s=612x612&w=0&k=20&c=qY6ZOtu7BaaPNhgsrR_lQG4c3wJYs-WC4YKBU9TUSZg=",
                 "alt": "Poison Dart Frog-photo"
             },
             "Country of Origin": "Ecuador",
@@ -328,7 +328,7 @@
             "ID": 28,
             "Name": "Howler Monkey",
             "Picture": {
-                "src": "https://upload.wikimedia.org/wikipedia/commons/7/74/Howler_monkey%2C_Costa_Rica.jpg",
+                "src": "https://www.natureplprints.com/p/729/red-howler-monkey-alouatta-seniculus-howling-18330628.jpg.webp",
                 "alt": "Howler Monkey-photo"
             },
             "Country of Origin": "Guatemala",
@@ -340,7 +340,7 @@
             "ID": 29,
             "Name": "Tapir",
             "Picture": {
-                "src": "https://upload.wikimedia.org/wikipedia/commons/d/d8/Tapir_5.jpg",
+                "src": "https://mongabay-images.s3.amazonaws.com/1200/animals/animals_00884.jpg",
                 "alt": "Tapir-photo"
             },
             "Country of Origin": "Bolivia",
@@ -352,7 +352,7 @@
             "ID": 30,
             "Name": "Anaconda",
             "Picture": {
-                "src": "https://upload.wikimedia.org/wikipedia/commons/3/34/Eunectes_murinus.JPG",
+                "src": "https://media.istockphoto.com/id/1257180046/photo/green-anaconda-eunectes-murinus-los-lianos-in-venezuela.jpg?s=612x612&w=0&k=20&c=DyWnA5gWouLi3nfMBiMSZJZSombGuqCayD1IcsX5-YY=",
                 "alt": "Anaconda-photo"
             },
             "Country of Origin": "Peru",
@@ -364,7 +364,7 @@
             "ID": 31,
             "Name": "Blue Morpho Butterfly",
             "Picture": {
-                "src": "https://upload.wikimedia.org/wikipedia/commons/1/1f/Morpho_menelaus_01.jpg",
+                "src": "https://www.cambridgebutterfly.com/wp-content/uploads/2018/07/blue-morpho-butterfly-of-the-month.jpg",
                 "alt": "Blue Morpho Butterfly-photo"
             },
             "Country of Origin": "Brazil",
@@ -376,7 +376,7 @@
             "ID": 32,
             "Name": "Peacock Butterfly",
             "Picture": {
-                "src": "https://upload.wikimedia.org/wikipedia/commons/5/53/Aglais_io_MHNT_CUT_2013_3_27.jpg",
+                "src": "https://thumbs.dreamstime.com/b/colourful-butterfly-european-peacock-purple-flower-43520836.jpg",
                 "alt": "Peacock Butterfly-photo"
             },
             "Country of Origin": "India",
@@ -388,7 +388,7 @@
             "ID": 33,
             "Name": "Glasswing Butterfly",
             "Picture": {
-                "src": "https://upload.wikimedia.org/wikipedia/commons/4/47/Greta_oto_Glasfl%C3%BCgler.JPG",
+                "src": "https://media.istockphoto.com/id/1477237819/photo/glasswing-butterfly.jpg?s=612x612&w=0&k=20&c=Be4MLYmaylGKnS7OMRC2hYJPhOT2KCI3G4vboZ2ewOw=",
                 "alt": "Glasswing Butterfly-photo"
             },
             "Country of Origin": "Costa Rica",
@@ -400,7 +400,7 @@
             "ID": 34,
             "Name": "Monarch Butterfly",
             "Picture": {
-                "src": "https://upload.wikimedia.org/wikipedia/commons/4/4e/Danaus_plexippus_MHNT.jpg",
+                "src": "https://butterfly-conservation.org/sites/default/files/styles/large/public/2019-02/6935162911-monarch-butterfly-danaus-plexippus-male.jpg?itok=aa0VNaZ_",
                 "alt": "Monarch Butterfly-photo"
             },
             "Country of Origin": "Mexico",
@@ -412,7 +412,7 @@
             "ID": 35,
             "Name": "Emerald Swallowtail",
             "Picture": {
-                "src": "https://upload.wikimedia.org/wikipedia/commons/8/8e/Papilio_palamedes_ventral.JPG",
+                "src": "https://media.istockphoto.com/id/541288730/photo/emerald-swallowtail-butterfly.jpg?s=612x612&w=0&k=20&c=CwqcXQjCb3u02DT9lfY8uxxRsiWj99tAHJqIX9vY34c=",
                 "alt": "Emerald Swallowtail-photo"
             },
             "Country of Origin": "Vietnam",
@@ -424,7 +424,7 @@
             "ID": 36,
             "Name": "Paper Kite Butterfly",
             "Picture": {
-                "src": "https://upload.wikimedia.org/wikipedia/commons/1/16/Idea_leuconoe_-_upper_side.JPG",
+                "src": "https://media.istockphoto.com/id/1780370227/photo/two-paper-kite-butterflies-resting-on-scarlet-jungleflame-flowers.jpg?s=612x612&w=0&k=20&c=um1rd80ECM2Y3sGUO6a_lgNIA9VcNliD0x3GgHqH-AY=",
                 "alt": "Paper Kite Butterfly-photo"
             },
             "Country of Origin": "Philippines",
@@ -436,7 +436,7 @@
             "ID": 37,
             "Name": "Zebra Longwing Butterfly",
             "Picture": {
-                "src": "https://upload.wikimedia.org/wikipedia/commons/1/1c/Heliconius_charithonia_zebra.jpg",
+                "src": "https://upload.wikimedia.org/wikipedia/commons/f/fc/Heliconius_charithonia_2021.jpg",
                 "alt": "Zebra Longwing Butterfly-photo"
             },
             "Country of Origin": "United States",
@@ -448,7 +448,7 @@
             "ID": 38,
             "Name": "Rajah Brooke’s Birdwing",
             "Picture": {
-                "src": "https://upload.wikimedia.org/wikipedia/commons/6/6f/Rajah_Brookes_Birdwing_butterfly.jpg",
+                "src": "https://www.weather2travel.com/images_blog/rajah-brookes-birdwing.jpg",
                 "alt": "Rajah Brooke’s Birdwing-photo"
             },
             "Country of Origin": "Malaysia",
@@ -460,7 +460,7 @@
             "ID": 39,
             "Name": "Common Blue Butterfly",
             "Picture": {
-                "src": "https://upload.wikimedia.org/wikipedia/commons/e/e2/Polyommatus_icarus_-_front_%28aka%29.jpg",
+                "src": "https://www.ukbutterflies.co.uk/photo_album/source/7c09aedc3bf1bf5883636749fbe0dd3f.jpg",
                 "alt": "Common Blue Butterfly-photo"
             },
             "Country of Origin": "United Kingdom",
@@ -472,7 +472,7 @@
             "ID": 40,
             "Name": "Malachite Butterfly",
             "Picture": {
-                "src": "https://upload.wikimedia.org/wikipedia/commons/9/9e/Malachite_butterfly.jpg",
+                "src": "https://media.istockphoto.com/id/1356830175/photo/close-up-of-the-malachite-butterfly.jpg?s=612x612&w=0&k=20&c=9FdzAW6i9EqmQGawcNxomcLHokR4QKOQHr-BMWl-HOU=",
                 "alt": "Malachite Butterfly-photo"
             },
             "Country of Origin": "Ecuador",
@@ -496,7 +496,7 @@
             "ID": 42,
             "Name": "Bottlenose Dolphin",
             "Picture": {
-                "src": "https://upload.wikimedia.org/wikipedia/commons/4/4d/Tursiops_truncatus_01.jpg",
+                "src": "https://www.thoughtco.com/thmb/bwzNgsAEcKhBi49Eg7GEpWUIMg4=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/two-bottlenose-dolphins-leaping-from-the-water-dv1689001-5bfc567a46e0fb0026652224.jpg",
                 "alt": "Bottlenose Dolphin-photo"
             },
             "Country of Origin": "United States",
@@ -508,7 +508,7 @@
             "ID": 43,
             "Name": "Common Octopus",
             "Picture": {
-                "src": "https://upload.wikimedia.org/wikipedia/commons/8/81/Common_octopus_%28Octopus_vulgaris%29.jpg",
+                "src": "https://animalfactguide.com/wp-content/uploads/2024/01/common-octopus3.jpg",
                 "alt": "Common Octopus-photo"
             },
             "Country of Origin": "Greece",
@@ -520,7 +520,7 @@
             "ID": 44,
             "Name": "Manta Ray",
             "Picture": {
-                "src": "https://upload.wikimedia.org/wikipedia/commons/2/2c/Manta_ray_Bahamas.jpg",
+                "src": "https://www.hawaiimagazine.com/content/uploads/2024/09/c/c/20240817-manta-ray-gettyimages-159195037.jpg",
                 "alt": "Manta Ray-photo"
             },
             "Country of Origin": "Indonesia",
@@ -532,7 +532,7 @@
             "ID": 45,
             "Name": "Clownfish",
             "Picture": {
-                "src": "https://upload.wikimedia.org/wikipedia/commons/2/29/Amphiprion_ocellaris_%28Clown_anemonefish%29.jpg",
+                "src": "https://images.unsplash.com/photo-1596414086775-3e321ab08f36?fm=jpg&q=60&w=3000&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8OHx8Y2xvd24lMjBmaXNofGVufDB8fDB8fHww",
                 "alt": "Clownfish-photo"
             },
             "Country of Origin": "Australia",
@@ -544,7 +544,7 @@
             "ID": 46,
             "Name": "Sea Turtle",
             "Picture": {
-                "src": "https://upload.wikimedia.org/wikipedia/commons/e/e9/Tortue_luth_-_R%C3%A9serve_Cousteau.jpg",
+                "src": "https://www.scubadiving.com/sites/default/files/styles/655_1x_/public/scuba/import/2013/files/_images/201309/turtturt_0.jpg?itok=Kp7f2XnL",
                 "alt": "Sea Turtle-photo"
             },
             "Country of Origin": "Costa Rica",
@@ -556,7 +556,7 @@
             "ID": 47,
             "Name": "Humpback Whale",
             "Picture": {
-                "src": "https://upload.wikimedia.org/wikipedia/commons/7/7f/Humpback_Whale_underwater_shot.jpg",
+                "src": "https://www.fisheries.noaa.gov/s3//dam-migration/2160x1440_humpbackwhale_noaa.jpg",
                 "alt": "Humpback Whale-photo"
             },
             "Country of Origin": "Alaska",
@@ -580,7 +580,7 @@
             "ID": 49,
             "Name": "Moray Eel",
             "Picture": {
-                "src": "https://upload.wikimedia.org/wikipedia/commons/3/3d/Gymnothorax_funebris2.jpg",
+                "src": "https://www.biographic.com/wp-content/uploads/2019/09/fangtooth-moray-eel-Enchelycore-anatina.jpg",
                 "alt": "Moray Eel-photo"
             },
             "Country of Origin": "Hawaii",
@@ -592,7 +592,7 @@
             "ID": 50,
             "Name": "Lionfish",
             "Picture": {
-                "src": "https://upload.wikimedia.org/wikipedia/commons/5/58/Pterois_volitans_Manado-e_edit.jpg",
+                "src": "https://www.seamester.com/wp-content/uploads/2017/03/lionfish-1-big.jpg",
                 "alt": "Lionfish-photo"
             },
             "Country of Origin": "Philippines",
@@ -604,7 +604,7 @@
             "ID": 51,
             "Name": "Barn Owl",
             "Picture": {
-                "src": "https://upload.wikimedia.org/wikipedia/commons/4/4e/Tyto_alba_060818c.jpg",
+                "src": "https://www.wingsearch2020.com/wp-content/uploads/2023/12/750A5920-copy-850x796.jpg",
                 "alt": "Barn Owl-photo"
             },
             "Country of Origin": "United Kingdom",
@@ -616,7 +616,7 @@
             "ID": 52,
             "Name": "Bald Eagle",
             "Picture": {
-                "src": "https://upload.wikimedia.org/wikipedia/commons/1/1a/Bald_Eagle_Portrait.jpg",
+                "src": "https://a-z-animals.com/media/2021/12/bald-eagle-header.jpg",
                 "alt": "Bald Eagle-photo"
             },
             "Country of Origin": "United States",
@@ -628,7 +628,7 @@
             "ID": 53,
             "Name": "Peregrine Falcon",
             "Picture": {
-                "src": "https://upload.wikimedia.org/wikipedia/commons/5/5c/Peregrine_Falcon_in_flight_-_stoop.jpg",
+                "src": "https://i.natgeofe.com/k/68424626-f7d0-4275-8d50-0450b5800563/peregrine-falcon-wings-extended_4x3.jpg",
                 "alt": "Peregrine Falcon-photo"
             },
             "Country of Origin": "Canada",
@@ -640,7 +640,7 @@
             "ID": 54,
             "Name": "Kingfisher",
             "Picture": {
-                "src": "https://upload.wikimedia.org/wikipedia/commons/7/7a/Common_Kingfisher_Alcedo_atthis.jpg",
+                "src": "https://res.cloudinary.com/roundglass/image/upload/f_auto,c_crop,x_0,y_64,w_1920,h_1080/ar_16:9,c_fill,w_auto/g_auto,q_auto/v1632483652/rg/collective/media/dkuxr2rrmshs0nt8aftd.jpg",
                 "alt": "Kingfisher-photo"
             },
             "Country of Origin": "India",
@@ -652,7 +652,7 @@
             "ID": 55,
             "Name": "African Grey Parrot",
             "Picture": {
-                "src": "https://upload.wikimedia.org/wikipedia/commons/7/71/Psittacus_erithacus_-perching_on_tray-8d.jpg",
+                "src": "https://www.marylandzoo.org/wp-content/uploads/2017/10/african_grey_web-1024x683.jpg",
                 "alt": "African Grey Parrot-photo"
             },
             "Country of Origin": "Gabon",
@@ -664,7 +664,7 @@
             "ID": 56,
             "Name": "Cockatoo",
             "Picture": {
-                "src": "https://upload.wikimedia.org/wikipedia/commons/d/d1/Cacatua_galerita_-perched_on_tray-8a.jpg",
+                "src": "https://cdn.download.ams.birds.cornell.edu/api/v2/asset/117500151/1200",
                 "alt": "Cockatoo-photo"
             },
             "Country of Origin": "Australia",
@@ -676,7 +676,7 @@
             "ID": 57,
             "Name": "Peafowl",
             "Picture": {
-                "src": "https://upload.wikimedia.org/wikipedia/commons/b/bd/Peacock_Plumage.jpg",
+                "src": "https://cdn.britannica.com/08/3408-050-6065D035/blue-peacock-pavo-cristatus-peahen-Indian-Males-harem-females.jpg",
                 "alt": "Peafowl-photo"
             },
             "Country of Origin": "India",
@@ -688,7 +688,7 @@
             "ID": 58,
             "Name": "Red-Tailed Hawk",
             "Picture": {
-                "src": "https://upload.wikimedia.org/wikipedia/commons/5/56/Buteo_jamaicensis_-_Red-tailed_Hawk_%28Rufous_morph%29.jpg",
+                "src": "https://media.istockphoto.com/id/157400841/photo/phot-of-majestic-hawk-in-flight.jpg?s=612x612&w=0&k=20&c=9qp4l6T3yTXC9TX2WoLa_Z53DwcuAAy6kJ4FCh6N9Nk=",
                 "alt": "Red-Tailed Hawk-photo"
             },
             "Country of Origin": "United States",
@@ -700,7 +700,7 @@
             "ID": 59,
             "Name": "Great Horned Owl",
             "Picture": {
-                "src": "https://upload.wikimedia.org/wikipedia/commons/7/7f/Great_Horned_Owl.jpg",
+                "src": "https://wildlifeimages.org/wp-content/uploads/2024/03/0006_AdobeStock_70816069.jpg",
                 "alt": "Great Horned Owl-photo"
             },
             "Country of Origin": "Mexico",
@@ -712,7 +712,7 @@
             "ID": 60,
             "Name": "Macaw",
             "Picture": {
-                "src": "https://upload.wikimedia.org/wikipedia/commons/5/5c/Ara_ararauna_-captive-8a.jpg",
+                "src": "https://www.thesprucepets.com/thmb/eS76P1vw-0DrYKhCXd-2553h3sw=/4724x0/filters:no_upscale():strip_icc()/GettyImages-634869043-58a6e83f5f9b58a3c918ca12.jpg",
                 "alt": "Macaw-photo"
             },
             "Country of Origin": "Brazil",
