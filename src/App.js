@@ -1,22 +1,22 @@
-import './App.css';
-import { createBrowserRouter, RouterProvider } from 'react-router-dom';
-import About from "./Pages/About";
+//App.js
+import React from "react";
+import { createBrowserRouter, RouterProvider, Route, createRoutesFromElements } from "react-router-dom";
+import "./App.css";
+import About from "./About";
+import Animals from "./Animals";
+import Layout from "./Layout"; 
 
-const router = createBrowserRouter([
-  {path: "/about", element: <About /> }
-  {path: "/about", element: <PlanAVisit}
-  {path: "/about", element: <ViewTheAnimals}
-]);
-
+const router = createBrowserRouter(
+  createRoutesFromElements(
+    <Route path="/" element={<Layout />}> 
+      <Route index element={<Animals />} /> 
+      <Route path="about" element={<About />} />
+    </Route>
+  )
+);
 
 function App() {
-
-
-  return (
-    <div className="App">
-      <RouterProvider router={router}></RouterProvider>
-    </div>
-  );
+  return <RouterProvider router={router} />;
 }
 
 export default App;
